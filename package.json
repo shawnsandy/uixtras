@@ -1,0 +1,15 @@
+{
+  "name": "uixtras",
+  "version": "0.0.1",
+  "description": "A collection of javascript UI tools and utilities for frontend development",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UI",
+    "JS"
+  ],
+  "author": "shawn sandy",
+  "license": "MIT"
+}
